@@ -1,14 +1,14 @@
 # fc-Krylov
 
 
-caso_1 
-	Integracion 1 (Metodo Exacto)
-caso_2 
-	Integracion 2 (Metodo Iterativo 1)
-caso_3 
-	Integracion 3 (Metodo Iterativo 2)
-caso_4 
-	Integracion 4 (Metodo Iterativo Krylov)
+1. caso_1 
+	- Integracion 1 (Metodo Exacto)
+2. caso_2 
+	- Integracion 2 (Metodo Iterativo 1)
+3. caso_3 
+	- Integracion 3 (Metodo Iterativo 2)
+4. caso_4 
+	- Integracion 4 (Metodo Iterativo Krylov)
 
 
 test (Pruebas de Concepto)
